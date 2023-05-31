@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+
+}
+body {
+    font-weight: "Roboto", san-serif;
+    margin: 10%;
+
+}
+section {
+    width: 400px;
+    padding: 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 16px;
+    text-align: center;
+   
+   
+}
+
+.text-right {
+    text-align: right;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    
+}
+form {
+   
+}
+.button-close {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    
+
+}
+.button-action {
+    background: none;
+    border: 1px solid grey;
+    padding: 10px 0;
+    border-radius: 55px;
+    cursor: pointer;
+    text-align: center;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+.post {
+    width: 250px;
+    height: 35px;
+    }
+.post-1 {
+    background-color: gold;
+}
+.item { 
+    width: 300px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
